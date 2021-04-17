@@ -1,8 +1,8 @@
 [
 {
-  "modid": "untitled",
-  "name": "Idealland Framework",
-  "description": "A modding framework presented by Idealland.",
+  "modid": "nesretro",
+  "name": "NES Retro",
+  "description": "A mod takes retro items and blocks into MC",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://www.mcmod.cn/class/2421.html",
